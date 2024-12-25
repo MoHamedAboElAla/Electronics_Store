@@ -1,0 +1,15 @@
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\bin\Debug\net8.0\MyShop.Data.deps.json
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\bin\Debug\net8.0\MyShop.Data.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\bin\Debug\net8.0\MyShop.Data.pdb
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\bin\Debug\net8.0\MyShop.Models.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\bin\Debug\net8.0\MyShop.Models.pdb
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.Data.csproj.AssemblyReference.cache
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.Data.AssemblyInfoInputs.cache
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.Data.AssemblyInfo.cs
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.D.017DC197.Up2Date
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.Data.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\refint\MyShop.Data.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\MyShop.Data.pdb
+C:\Users\Vip\source\repos\MyShop\MyShop.Data\obj\Debug\net8.0\ref\MyShop.Data.dll
