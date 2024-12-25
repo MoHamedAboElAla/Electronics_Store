@@ -1,0 +1,12 @@
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\bin\Debug\net8.0\MyShop.Models.deps.json
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\bin\Debug\net8.0\MyShop.Models.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\bin\Debug\net8.0\MyShop.Models.pdb
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\MyShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\MyShop.Models.AssemblyInfoInputs.cache
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\MyShop.Models.AssemblyInfo.cs
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\MyShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\MyShop.Models.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\refint\MyShop.Models.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\MyShop.Models.pdb
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\ref\MyShop.Models.dll
+C:\Users\Vip\source\repos\MyShop\MyShop.Models\obj\Debug\net8.0\MyShop.Models.csproj.AssemblyReference.cache
